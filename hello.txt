@@ -1,2 +1,3 @@
 hello welcome to this app
+This is the third edit I'm making on this file with intent of commmiting without staging
 This is the new line that i want to commit
